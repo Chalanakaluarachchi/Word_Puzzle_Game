@@ -1,0 +1,31 @@
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\bin\Debug\GroupGame.exe.config
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\bin\Debug\GroupGame.exe
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\bin\Debug\GroupGame.pdb
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\obj\Debug\GroupGame.Form1.resources
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\obj\Debug\GroupGame.Properties.Resources.resources
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.GenerateResource.cache
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\obj\Debug\GroupGame.exe
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\obj\Debug\GroupGame.pdb
+C:\Users\Avindu Aloka\source\repos\GroupGame\GroupGame\obj\Debug\GroupGame.csprojAssemblyReference.cache
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\bin\Debug\GroupGame.exe.config
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\bin\Debug\GroupGame.exe
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\bin\Debug\GroupGame.pdb
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.AssemblyReference.cache
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.Form1.resources
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.Properties.Resources.resources
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.GenerateResource.cache
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.CoreCompileInputs.cache
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.exe
+C:\Users\CHALANA RAVISHKA\OneDrive - The Open University of Sri Lanka\Desktop\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.pdb
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\bin\Debug\GroupGame.exe.config
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\bin\Debug\GroupGame.exe
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\bin\Debug\GroupGame.pdb
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.AssemblyReference.cache
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.SuggestedBindingRedirects.cache
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.Form1.resources
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.Properties.Resources.resources
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.GenerateResource.cache
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.csproj.CoreCompileInputs.cache
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.exe
+D:\New folder (7)\New folder (7)\GroupGame\GroupGame\obj\Debug\GroupGame.pdb
